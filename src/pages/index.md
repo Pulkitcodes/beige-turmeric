@@ -26,10 +26,10 @@ sections:
           can help you amend your travel dates with all airlines,
       - type: grid_item
         title: Name Change
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Found out that your name on the ticket does not match your Govt.
+          issued ID? Do not fret! Our airline insiders can ensure you do not
+          have any problems while at the airport.
       - type: grid_item
         title: Cancellation
         content: >-
