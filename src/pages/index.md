@@ -32,7 +32,7 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
       - type: grid_item
-        title: Flight Cancellation
+        title: Cancellation
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
