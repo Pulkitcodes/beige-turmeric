@@ -1,5 +1,5 @@
 ---
-title: Airline Phone Numbers
+title: Airline Contact Info
 image: images/thank-you.jpg
 image_alt: Thank You Led Signage
 template: page
