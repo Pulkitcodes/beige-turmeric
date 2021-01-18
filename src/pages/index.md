@@ -24,7 +24,7 @@ sections:
         content: >
           No matter the airline you are traveling with, our airline specialists
           can help you amend your travel dates with all airlines,
-        image: /images/Background.jpg
+        image: /images/AdobeStock_189740072_Preview.jpeg
       - type: grid_item
         title: Name Change
         content: >
