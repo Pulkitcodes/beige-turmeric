@@ -5,7 +5,7 @@
     "accent_color": "pink",
     "header": {
         "type": "header",
-        "title": "Exto",
+        "title": "Flightshunt",
         "has_nav": true,
         "nav_links": [
             {
@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Portfolio",
+                "label": "Airline Phone Numbers",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -28,7 +28,7 @@
             },
             {
                 "type": "action",
-                "label": "Style Guide",
+                "label": "Support",
                 "url": "/style-guide/",
                 "style": "link"
             },
