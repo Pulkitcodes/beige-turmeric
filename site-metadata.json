@@ -31,6 +31,15 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
+            },
+            {
+                "label": "Support",
+                "url": "/support",
+                "style": "link",
+                "icon_class": "support",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
