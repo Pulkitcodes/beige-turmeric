@@ -42,7 +42,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "Flightshunt",
+        "content": "© Flightshunt. All rights reserved",
         "has_social": true,
         "social_links": [
             {
