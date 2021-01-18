@@ -42,7 +42,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "",
+        "content": "Flightshunt",
         "has_social": true,
         "social_links": [
             {
