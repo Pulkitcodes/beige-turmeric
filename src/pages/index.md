@@ -45,7 +45,7 @@ sections:
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Check out some of our delighted customers
     col_number: three
     testimonials:
       - type: testimonial
