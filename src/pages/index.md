@@ -15,7 +15,7 @@ sections:
   - type: section_grid
     title: What We Do
     section_id: services
-    subtitle: One stop support for all airlines and OTAs
+    subtitle: One stop support for all airlines and online travel agencies
     col_number: two
     is_numbered: true
     grid_items:
