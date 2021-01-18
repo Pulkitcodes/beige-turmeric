@@ -38,9 +38,10 @@ sections:
           ticket.
       - type: grid_item
         title: Compensation
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Do you know that you are entitled to up to 200% compensation if the
+          airline or the agency you booked with were unable to honour their
+          commitment? Let our experts make a claim on your behalf.
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
