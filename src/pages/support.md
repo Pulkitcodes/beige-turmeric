@@ -1,6 +1,6 @@
 ---
 title: Airlines Contact Info
-subtitle: All airlines flying out of the US of A
+subtitle: Ways to reach out to airlines customer support directly.
 excerpt: lorem-ipsum
 image_alt: ''
 template: page
