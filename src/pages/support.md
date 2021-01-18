@@ -1,6 +1,6 @@
 ---
 title: Airline Contact Info
-subtitle: This is a short page about us and our work.
+subtitle: All airlines flying out of the US of A
 excerpt: lorem-ipsum
 image_alt: ''
 template: page
