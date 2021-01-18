@@ -80,7 +80,7 @@
         ],
         "links": [
             {
-                "label": "A",
+                "label": "",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
