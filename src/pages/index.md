@@ -12,13 +12,6 @@ sections:
         label: Let's talk
         url: /contact
         style: button
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
   - type: section_grid
     title: What We Do
     section_id: services
