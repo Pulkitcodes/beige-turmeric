@@ -5,26 +5,14 @@ excerpt: lorem-ipsum
 image_alt: ''
 template: page
 ---
-*	*
+*   ***United Airlines** *
 
-# *United Airlines*
+    *+1 800 864 8331*
 
-**
+***eservice@united.com***
 
-## *Star Alliance*
+***www.united.com***
 
-**
+******
 
-### *+1 800 864 8331*
-
-**
-
-#### *eservice@united.com*
-
-**
-
-*www.united.com*
-
-*Create Your Own Free Signature*
-
-**
+******
