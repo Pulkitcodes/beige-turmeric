@@ -34,7 +34,7 @@
             },
             {
                 "label": "Support",
-                "url": "lorem-ipsum",
+                "url": "/support",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
