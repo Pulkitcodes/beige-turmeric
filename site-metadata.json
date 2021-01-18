@@ -1,6 +1,6 @@
 {
-    "title": "Stackbit Exto Theme",
-    "description": "A portfolio theme with a blog",
+    "title": "Flightshunt",
+    "description": "Airfare insiders",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
@@ -16,14 +16,8 @@
             },
             {
                 "type": "action",
-                "label": "Airline Phone Numbers",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "About",
+                "url": "/about/",
                 "style": "link"
             },
             {
@@ -34,8 +28,8 @@
             },
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
@@ -48,7 +42,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "© Flightshunt. All rights reserved",
         "has_social": true,
         "social_links": [
             {
@@ -83,6 +77,7 @@
                 "icon_class": "fa-linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "links": []
     }
 }
