@@ -1,5 +1,5 @@
 ---
-title: Airline Contact Info
+title: Airlines Contact Info
 subtitle: All airlines flying out of the US of A
 excerpt: lorem-ipsum
 image_alt: ''
