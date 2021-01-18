@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: Expert Travel Support
     section_id: hero
-    content: >
-      Our ex-airline insiders are on a mission to make airfares more open and
-      transparent.
+    content: |
+      Need an expert to manage your air travel ?
     actions:
       - type: action
         label: Let's talk
