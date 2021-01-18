@@ -15,7 +15,7 @@ sections:
   - type: section_grid
     title: What We Do
     section_id: services
-    subtitle: An optional subtitle of the section
+    subtitle: One stop support for all airlines and OTAs
     col_number: two
     is_numbered: true
     grid_items:
