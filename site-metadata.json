@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Portfolio",
+                "label": "Resources",
                 "url": "/portfolio/",
                 "style": "link"
             },
