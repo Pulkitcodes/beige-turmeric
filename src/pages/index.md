@@ -78,7 +78,7 @@ sections:
           trying to get through to airline customer support. This service is
           truly a game changer.
   - title: Have Questions? Get Answers
-    section_id: lorem-ipsum
+    section_id: ''
     content: >-
       ## Lorem ipsum
 
