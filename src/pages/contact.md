@@ -47,17 +47,20 @@ sections:
     section_id: ''
     subtitle: ''
     image_alt: ''
-    content: >-
-      ## Lorem ipsum
+    content: |
+      **Our Office Address**
+
+      647 W Shaw AveFresno, CA 93704
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+      **Phone - +1 (877) 370-0054**
 
-      - Lorem ipsum
+      ****
 
-      - dolor sit amet
+      Please fill-up the form below to send us an email.
+
+      ****
     actions: []
     type: section_content
 template: advanced
