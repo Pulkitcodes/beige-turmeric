@@ -15,6 +15,15 @@
                 "style": "link"
             },
             {
+                "label": "+1 (877) 370-0054",
+                "url": "",
+                "style": "button",
+                "icon_class": "lorem-ipsum",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "About",
                 "url": "/about/",
@@ -38,15 +47,6 @@
                 "style": "link",
                 "icon_class": "",
                 "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "+1 (877) 370-0054",
-                "url": "",
-                "style": "button",
-                "icon_class": "lorem-ipsum",
-                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
