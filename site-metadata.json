@@ -93,7 +93,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Terms",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
