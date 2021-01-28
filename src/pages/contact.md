@@ -43,25 +43,5 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-  - title: Contact info
-    section_id: ''
-    subtitle: ''
-    image_alt: ''
-    content: |
-      **Our Office Address**
-
-      647 W Shaw AveFresno, CA 93704
-
-
-
-      **Phone - +1 (877) 370-0054**
-
-      ****
-
-      Please fill-up the form below to send us an email.
-
-      ****
-    actions: []
-    type: section_content
 template: advanced
 ---
