@@ -79,17 +79,13 @@ sections:
           truly a game changer.
   - title: Have Questions? Get Answers
     section_id: ''
-    content: >-
-      ## Lorem ipsum
+    content: >
+      We've got your back! our travel experts are standing by to answer any
+      questions that you may have. Reach out to us by email at care@flightshunt,
+      com, or simply call.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      # (877) 370-0054&#xA;
     actions: []
     type: section_hero
 template: advanced
