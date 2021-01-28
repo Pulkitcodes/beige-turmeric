@@ -44,7 +44,7 @@
             {
                 "label": "+1 (877) 370-0054",
                 "url": "",
-                "style": "button",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "no_follow": false,
