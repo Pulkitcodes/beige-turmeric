@@ -46,7 +46,7 @@ sections:
   - title: Contact info
     section_id: ''
     subtitle: ''
-    image_alt: lorem-ipsum
+    image_alt: ''
     content: >-
       ## Lorem ipsum
 
