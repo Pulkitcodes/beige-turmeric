@@ -15,7 +15,7 @@ sections:
       - label: Schedule a call
         url: ''
         style: button
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: false
         no_follow: false
         type: action
