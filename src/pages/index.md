@@ -13,7 +13,7 @@ sections:
         url: /contact
         style: button
       - label: Schedule a call
-        url: lorem-ipsum
+        url: ''
         style: link
         icon_class: lorem-ipsum
         new_window: false
