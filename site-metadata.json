@@ -9,12 +9,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "type": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "+1 (877) 370-0054",
                 "url": "",
                 "style": "button",
@@ -22,6 +16,12 @@
                 "new_window": true,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link"
             },
             {
                 "type": "action",
