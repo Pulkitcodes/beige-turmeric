@@ -16,7 +16,7 @@ sections:
         url: ''
         style: button
         icon_class: ''
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   - type: section_grid
