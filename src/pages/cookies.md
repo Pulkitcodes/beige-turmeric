@@ -5,8 +5,7 @@ excerpt: lorem-ipsum
 image_alt: ''
 template: page
 ---
-# **COOKIE POLICY**
-
+****
 
 **Last updated January 28, 2021**
 
