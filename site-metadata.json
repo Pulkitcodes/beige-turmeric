@@ -103,7 +103,7 @@
             },
             {
                 "label": "Cookies",
-                "url": "lorem-ipsum",
+                "url": "/cookies",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
