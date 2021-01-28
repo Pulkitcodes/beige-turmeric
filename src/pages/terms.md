@@ -1,6 +1,6 @@
 ---
 title: Terms
-subtitle: This is a short page about us and our work.
+subtitle: ''
 excerpt: lorem-ipsum
 image_alt: ''
 template: page
