@@ -44,7 +44,7 @@ sections:
           can be contacted.
     submit_label: Send Message
   - title: Contact info
-    section_id: lorem-ipsum
+    section_id: ''
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
