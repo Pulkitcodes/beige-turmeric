@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Privacy Policy
 subtitle: This is a short page about us and our work.
 excerpt: lorem-ipsum
 image_alt: ''
