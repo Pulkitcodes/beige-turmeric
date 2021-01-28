@@ -13,11 +13,10 @@ sections:
       **Our Office Address**
 
 
-
       647 W Shaw AveFresno, CA 93704
 
 
-      \*\*Phone - \*\*+1 (877) 370-0054
+      \+1 (877) 370-0054
     form_id: contactForm
     form_action: /thank-you
     form_fields:
