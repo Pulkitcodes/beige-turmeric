@@ -4,9 +4,19 @@ hide_title: false
 sections:
   - type: section_form
     section_id: contact-form
-    content: >
+    content: >+
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below to reach out.
+      fill the contact form below to reach out or give us a call on the
+      telephone number below.
+
+
+      **Our Office Address**
+
+      647 W Shaw AveFresno, CA 93704
+
+
+      **Phone - **+1 (877) 370-0054
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
