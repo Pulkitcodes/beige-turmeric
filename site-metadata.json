@@ -93,7 +93,7 @@
         "links": [
             {
                 "label": "Privacy",
-                "url": "flightshunt",
+                "url": "/privacy",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
