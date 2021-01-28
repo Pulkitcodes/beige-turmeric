@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 image_alt: ''
 template: page
 ---
-****
+***
 
 **Last updated January 28, 2021**
 
@@ -36,6 +36,16 @@ Third parties may serve cookies on your computer or mobile device to serve adver
 **How often will you update this Cookie Policy?**
 We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
 The date at the top of this Cookie Policy indicates when it was last updated.
+
+
 **Where can I get further information?**
 If you have any questions about our use of cookies or other technologies, please email us at info@flightshunt.com or by post to:
-CircleSquare LLC647fresno, CA 93704United StatesPhone: 8773700054
+CircleSquare LLC
+
+647 Fresno W Shaw Ave, 
+
+CA 93704
+
+United States
+
+Phone: 8773700054
