@@ -45,7 +45,7 @@ sections:
     submit_label: Send Message
   - title: Contact info
     section_id: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
