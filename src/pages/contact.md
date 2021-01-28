@@ -43,7 +43,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-  - title: 'Please feel free to reach out. We respond to all emails within '
+  - title: Please feel free to reach out. We respond to all emails within 24 hours
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
