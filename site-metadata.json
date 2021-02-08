@@ -16,7 +16,7 @@
             },
             {
                 "label": "Book A Flight",
-                "url": "lorem-ipsum",
+                "url": "/book-a-flight",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
