@@ -100,14 +100,6 @@ sections:
           flight for the United Mexican States..
         actions: []
         type: grid_item
-      - title: Guadalajara
-        image_alt: lorem-ipsum
-        content: >
-          The 8th best city in South America, fancy a bar-hopping party there's
-          no better place for tequilas. With daily connections from all major
-          cities of the U.S., Guadalajara is only a couple of hours away.
-        actions: []
-        type: grid_item
       - title: Havana
         image_alt: lorem-ipsum
         content: >
@@ -115,6 +107,14 @@ sections:
           green countryside and vibrant cities with the scent of rum and
           cigars.  The capital city Havana is connected with 10 U.S. Cities
           including Los Angeles, Miami and New York.
+        actions: []
+        type: grid_item
+      - title: Guadalajara
+        image_alt: lorem-ipsum
+        content: >
+          The 8th best city in South America, fancy a bar-hopping party there's
+          no better place for tequilas. With daily connections from all major
+          cities of the U.S., Guadalajara is only a couple of hours away.
         actions: []
         type: grid_item
     type: section_grid
