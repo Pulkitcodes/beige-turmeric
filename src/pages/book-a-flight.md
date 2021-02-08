@@ -51,7 +51,7 @@ sections:
           Picchu in Peru, Our flight hunters can get you the best seats at the
           lowest fare.
       - type: grid_item
-        title: ''
+        title: American Airlines
         content: >
           Had to cancel your trip due to some unforeseen circumstances? Let our
           experts make sure that you retain the complete value of your flight
