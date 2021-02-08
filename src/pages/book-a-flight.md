@@ -98,7 +98,7 @@ sections:
     actions: []
     type: section_hero
   - title: Destinations we love
-    section_id: lorem-ipsum
+    section_id: ''
     subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
