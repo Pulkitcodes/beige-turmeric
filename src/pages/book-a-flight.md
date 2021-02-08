@@ -24,7 +24,7 @@ sections:
         no_follow: false
         type: action
   - type: section_grid
-    title: Our Favourite Airlines
+    title: Our Favorite Airlines
     section_id: services
     subtitle: One stop support for all airlines and online travel agencies
     col_number: two
