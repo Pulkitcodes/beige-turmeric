@@ -97,5 +97,12 @@ sections:
       # (877) 370-0054&#xA;
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
 template: advanced
 ---
