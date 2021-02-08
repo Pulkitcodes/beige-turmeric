@@ -60,7 +60,8 @@
                 "type": "action"
             }
         ],
-        "logo_img": "/images/FlightHunt_logo.png"
+        "logo_img": "/images/FlightHunt_logo.png",
+        "logo_img_alt": "Flightshunt_Logo"
     },
     "footer": {
         "type": "footer",
