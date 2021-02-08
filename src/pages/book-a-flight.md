@@ -97,7 +97,7 @@ sections:
       # (877) 370-0054&#xA;
     actions: []
     type: section_hero
-  - title: Destinations that we c
+  - title: Destinations we love
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
