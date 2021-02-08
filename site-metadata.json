@@ -107,7 +107,7 @@
                 "label": "Terms",
                 "url": "https://app.termly.io/document/terms-of-use-for-website/de2cbe05-4d98-4344-b028-81e482942239",
                 "style": "link",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
