@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: 'On a mission to bring '
+subtitle: ''
 image_alt: ''
 template: page
 ---
