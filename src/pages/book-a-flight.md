@@ -43,9 +43,13 @@ sections:
       - type: grid_item
         title: Aero Mexico
         content: >
-          Found out that your name on the ticket does not match your Govt.
-          issued ID? Do not fret! Our airline insiders can ensure you do not
-          have any problems while at the airport.
+          The airlines boast of a unique flying experience, and that is
+          undoubtedly true. Aero Mexico is not just the best airline to Mexico,
+          but it is also a preferred carrier for all major airports in Latin
+          America. So whether you are looking to eat authentic Mexican food on
+          the streets of Oaxaca, or you want to behold the wonder called Machu
+          Picchu in Peru, Our flight hunters can get you the best seats at the
+          lowest fare.
       - type: grid_item
         title: Cancellation
         content: >
