@@ -41,7 +41,7 @@ sections:
           Panama is with Copa Airlines, and the best seats on Airplanes are
           booked by. You know who! ;-)
       - type: grid_item
-        title: Name Change
+        title: Aero Mexico
         content: >
           Found out that your name on the ticket does not match your Govt.
           issued ID? Do not fret! Our airline insiders can ensure you do not
