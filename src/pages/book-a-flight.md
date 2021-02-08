@@ -99,7 +99,7 @@ sections:
     type: section_hero
   - title: Destinations we love
     section_id: ''
-    subtitle: 'Been there done that and now '
+    subtitle: 'Been there done that and '
     col_number: three
     is_numbered: false
     grid_items: []
