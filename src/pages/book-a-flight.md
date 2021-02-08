@@ -8,8 +8,9 @@ sections:
       Psst... Our
       fares are so low that the airlines do not allow us to offer them online.
     section_id: hero
-    content: |
-      Need an expert to manage your air travel ?
+    content: >
+      Travel Industry Veterans who have a knack for finding the best seats and
+      complimentary upgrades.
     actions:
       - type: action
         label: Let's talk
