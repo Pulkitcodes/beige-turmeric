@@ -114,9 +114,7 @@ sections:
           The Cuban experience is indeed memorable and exciting. Beaches, lush
           green countryside and vibrant cities with the scent of rum and
           cigars.  The capital city Havana is connected with 10 U.S. Cities
-          which are, Atlanta (ATL), Charlotte (CLT), Fort Lauderdale (FLL),
-          Houston (IAH), Los Angeles (LAX), Miami (MIA), Newark (EWR), Orlando
-          (MCO), New York (NYC), and Tampa (TPA).
+          including Los Angeles, Miami and New York.
         actions: []
         type: grid_item
     type: section_grid
