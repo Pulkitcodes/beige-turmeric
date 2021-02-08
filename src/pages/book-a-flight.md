@@ -49,12 +49,6 @@ sections:
           Had to cancel your trip due to some unforeseen circumstances? Let our
           experts make sure that you retain the complete value of your flight
           ticket.
-      - type: grid_item
-        title: Compensation
-        content: >
-          Do you know that you are entitled to up to 200% compensation if the
-          airline or the agency you booked with were unable to honour their
-          commitment? Let our experts make a claim on your behalf.
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
