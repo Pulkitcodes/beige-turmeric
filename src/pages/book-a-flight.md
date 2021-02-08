@@ -99,7 +99,7 @@ sections:
     type: section_hero
   - title: Destinations we love
     section_id: ''
-    subtitle: P
+    subtitle: ''
     col_number: three
     is_numbered: true
     grid_items:
