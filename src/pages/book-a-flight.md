@@ -26,7 +26,7 @@ sections:
   - type: section_grid
     title: Our Favorite Airlines
     section_id: services
-    subtitle: Our travel insiders love flying with the
+    subtitle: 'Our travel insiders love flying with these airlines and they know how to '
     col_number: two
     is_numbered: true
     grid_items:
