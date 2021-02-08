@@ -72,13 +72,6 @@ sections:
           Thank you so much for helping me when I was stuck at an airport and
           all hopes were lost.
       - type: testimonial
-        author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
-        content: >-
-          You guys simply rock, I was able to claim compensation for lost
-          baggage ************* in less than a week!
-      - type: testimonial
         author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
@@ -86,6 +79,13 @@ sections:
           You came into my life when I had already wasted hours over the phone
           trying to get through to airline customer support. This service is
           truly a game changer.
+      - type: testimonial
+        author: Aubrey Hoover
+        avatar: images/aubrey_hoover.jpg
+        avatar_alt: Aubrey Hoover's photo
+        content: >-
+          You guys simply rock, I was able to claim compensation for lost
+          baggage ************* in less than a week!
   - title: Destinations we love
     section_id: ''
     subtitle: ''
